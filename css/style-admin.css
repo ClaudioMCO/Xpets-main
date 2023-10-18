@@ -1,0 +1,25 @@
+main{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.tutor-folder{
+    background-color: #B77A3B;
+    border: 2px solid;
+    border-radius: 15px 0px 0px 15px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.minor-info h1{
+  display: flex;
+  justify-content: center;
+  border: 1px solid;
+  border-left: none;
+  border-right: none;
+  
+  background-color: white;
+}
